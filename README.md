@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+mainly focussed on school projects at the moment 🐉
+
 <!--
 **nil4va/nil4va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
