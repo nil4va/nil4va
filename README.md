@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 mainly focussed on school projects at the moment 🐉
 
